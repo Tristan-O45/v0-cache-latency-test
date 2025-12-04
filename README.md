@@ -12,7 +12,7 @@ This app helps you observe the performances differences between:
 
 \`\`\`bash
 # Install dependencies
-npm install
+npm insta
 
 # Run development server
 npm run dev
