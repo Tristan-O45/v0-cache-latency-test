@@ -9,7 +9,7 @@ This app helps you observe the performances differences between:
 2. **unstable_cache** - 70 parallel requests using Next.js's `unstable_cache` wrapper
 bgdhs
 ## Local Development
-
+gewtt
 \`\`\`bash
 # Install dependencies
 npm insta
