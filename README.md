@@ -7,7 +7,7 @@ A minimal Next.js app to compare latency between direct external fetches and `un
 This app helps you observe the performances differences between:
 1. **Direct fetches** - 70 parallel requests to an external API with no caching
 2. **unstable_cache** - 70 parallel requests using Next.js's `unstable_cache` wrapper
-
+bgdhs
 ## Local Development
 
 \`\`\`bash
